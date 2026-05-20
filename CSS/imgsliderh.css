@@ -10,7 +10,7 @@
 .slider{
     display: flex;
     aspect-ratio: 32 / 9;
-    max-width: 1200px;
+    max-width: 900px;
     overflow-x: hidden;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
